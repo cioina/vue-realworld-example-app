@@ -1,1 +1,18 @@
-# vue-realworld-example-app
+# vue-plyr-example-app
+
+Exemplary [real world](https://github.com/gothinkster/realworld) frontend application built with[Vue.js](https://github.com/vuejs/vue) for OpenShift Online Starter/Pro.
+
+## Credits
+
+- Node.js sample app on OpenShift. [nodejs-ex](https://github.com/sclorg/nodejs-ex)
+- Source code. [code](https://github.com/gothinkster/vue-realworld-example-app)
+- Live Example. [vue-vuex-realworld.netlify.com](https://vue-vuex-realworld.netlify.com/#/)
+- Author. [Emmanuel Vilsbol](https://github.com/vilsbole)
+
+## Motivation
+
+If you think that [nodejs-ex](https://github.com/sclorg/nodejs-ex) is boring, try this repository instead. 
+
+## Build 
+
+This repository is meant to be built on OpenShift Online Starter/Pro. Please use [vue-plyr-example-app](https://github.com/cioina/vue-plyr-example-app) if you want to build locally.
